@@ -1,6 +1,3 @@
-# Prodigy_InfoTech_CS_02
-Task 2: Image encryption tool using pixel swapping
-
 # Pixel Manipulation for Image Encryption 
 
 This repository contains my Python program for Task 02 of the Cyber Security Internship at **Prodigy InfoTech**. 
